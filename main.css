@@ -1,6 +1,19 @@
+html, body { 
+    height: 100%;
+    max-width: 1200px
+}
+
 body {
     background-color: white;
+    text-rendering: optimizeLegibility;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    -o-hyphens: auto;
+    hyphens: auto;
+    word-wrap: break-word;
 }
+
 h1 {
     color: DarkGreen;
     margin-left: 20px;
