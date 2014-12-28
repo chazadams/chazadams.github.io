@@ -20,3 +20,9 @@ h1 {
     color: DarkGreen;
     margin-left: 20px;
 }
+
+h2 {
+    font-size: 100%;
+    text-align: center;
+    color: black;
+}
