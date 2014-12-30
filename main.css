@@ -2,7 +2,7 @@ html, body {
     height: 100%;
     max-width: 1200px
 }
-<!--Background-->
+
 body {
     background-color: white;
     background-image: url('https://farm3.staticflickr.com/2918/14507954667_3b932fc294_o.jpg');
@@ -28,7 +28,7 @@ h2 {
     text-align: center;
     color: black;
 }
-<!--Paragraph-->
+
 p {
     text-align: center;
     margin-left: 200px;
