@@ -8,6 +8,7 @@ body {
     background-image: url('https://farm3.staticflickr.com/2918/14507954667_3b932fc294_o.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-position: center;
     text-rendering: optimizeLegibility;
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
