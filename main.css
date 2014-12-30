@@ -2,7 +2,7 @@ html, body {
     height: 100%;
     max-width: 1200px
 }
-
+--Background
 body {
     background-color: white;
     background-image: url('https://farm3.staticflickr.com/2918/14507954667_3b932fc294_o.jpg');
@@ -17,21 +17,22 @@ body {
     hyphens: auto;
     word-wrap: break-word;
 }
-
+--Headings
 h1 {
     font-size: 500%;
     text-align: center;
     color: DarkGreen;
     margin-left: 20px;
 }
-
+h2 {
+    text-align: center;
+    color: black;
+}
+--Paragraph
 p {
     text-align: center;
     margin-left: 100px;
     margin-right:100px;
 }
-h2 {
-    text-align: center;
-    color: black;
-}
+
 
