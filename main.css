@@ -2,11 +2,14 @@ html, body {
     height: 100%;
     max-width: 1200px
 }
+
 .center {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
+    background: rgba(255, 255, 255, 0.5);
 }
+
 body {
     background-color: white;
     background-image: url('https://farm3.staticflickr.com/2926/14598539874_6efe018a3c_o.jpg');
