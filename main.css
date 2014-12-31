@@ -3,8 +3,7 @@
 html, body { 
     height: 100%;
     max-width: 1200px
-    /*font-family: 'San Francisco Display', Helvetica, sans-serif;*/
-    font-family: "Lato", "Source Sans Pro", "PT Sans", sans-serif;
+    font-family: 'Lato', sans-serif;
 }
  .center {
     margin-left: auto;
