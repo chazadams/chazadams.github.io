@@ -2,7 +2,7 @@
 html, body { 
     height: 100%;
     max-width: 1200px
-    font-family: 'San Francisco Display', sans-serif;
+    font-family: 'San Francisco Display', Helvetica, sans-serif;
 }
  .center {
     margin-left: auto;
