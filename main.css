@@ -17,7 +17,7 @@ body {
     background-image: url('https://farm3.staticflickr.com/2926/14598539874_6efe018a3c_o.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: fixed;
+    background-position: center;
     background-size: 1632px 1224px;
     text-rendering: optimizeLegibility;
     -webkit-hyphens: auto;
