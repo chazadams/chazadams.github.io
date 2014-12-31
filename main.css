@@ -19,6 +19,7 @@ body {
     background-attachment: fixed;
     background-position: center;
     background-size: 100%;
+    background-attachment: fixed;
     text-rendering: optimizeLegibility;
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
