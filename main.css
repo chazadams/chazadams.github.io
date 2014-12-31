@@ -29,6 +29,7 @@ body {
 }
 
 h1 {
+    font-family: "PT Sans", sans-serif;
     font-size: 500%;
     text-align: center;
     color: DarkGreen;
