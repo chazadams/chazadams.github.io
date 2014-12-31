@@ -1,7 +1,8 @@
 html, body { 
     height: 100%;
     max-width: 1200px
-    font-family: "San Francisco", verdana, sans-serif;
+    @import url(http://nicholastodor.com/sf/usesf.css);
+    font-family: 'San Francisco Display', sans-serif;
 }
 .center {
     margin-left: auto;
