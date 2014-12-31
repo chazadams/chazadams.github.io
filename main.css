@@ -1,6 +1,7 @@
 html, body { 
     height: 100%;
     max-width: 1200px
+    font-family: San Francisco, Geneva, verdana, sans-serif;
 }
 .center {
     margin-left: auto;
