@@ -3,10 +3,12 @@ html, body {
     height: 100%;
     max-width: 1200px
     font-family: 'Lato', sans-serif;
+    margin-left: 200px;
+    margin-right: 200px;
 }
  .center {
-    margin-left: 300;
-    margin-right: 300;
+    margin-left: auto;
+    margin-right: auto;
     width: 100%;
     background: rgb(245, 245, 245); /* The Fallback */
     background: rgba(255, 255, 255, 0.5);
