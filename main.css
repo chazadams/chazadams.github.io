@@ -5,8 +5,8 @@ html, body {
     font-family: 'Lato', sans-serif;
 }
  .center {
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 300;
+    margin-right: 300;
     width: 100%;
     background: rgb(245, 245, 245); /* The Fallback */
     background: rgba(255, 255, 255, 0.5);
@@ -36,11 +36,13 @@ h1 {
     <!--margin-left: 20px;-->
 }
 h2 {
+    font-family: "PT Sans", sans-serif;
     text-align: center;
     color: black;
 }
 
 p {
+    font-family: "PT Sans", sans-serif;
     text-align: left;
     margin-left: 300px;
     margin-right:300px;
