@@ -61,6 +61,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
+  color: DarkGreen;
   font-size: 300%;
   margin-top: 1em;
   margin-bottom: 0.5em;
