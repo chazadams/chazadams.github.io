@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Lato:400,700|PT+Sans:400,700|Open+Sans:400,700);
 html, body { 
     height: 100%;
-    max-width: 1200px
+    max-width: 800px
     font-family: 'Lato', sans-serif;
     margin-left: 50px;
     margin-right: 50px;
@@ -16,10 +16,6 @@ html, body {
 
 body {
     background-color: white;
-    <!-- background-image: url('https://farm3.staticflickr.com/2926/14598539874_6efe018a3c_o.jpg'); -->
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
     background-size: 1632px 1224px;
     text-rendering: optimizeLegibility;
     -webkit-hyphens: auto;
