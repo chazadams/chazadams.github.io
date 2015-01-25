@@ -183,6 +183,17 @@ div.header {
   color: #000;
 }
 
+.site .header a.extra_first_chaz {
+  color: #686169;
+  margin-left: 0em;
+  font-weight: 400;
+  font-size: 110%;
+}
+
+.site .header a.extra_first_chaz:hover {
+  color: #000;
+}
+
 .site .meta {
   color: #8f9a9c;
 }
